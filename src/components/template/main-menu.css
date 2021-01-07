@@ -1,0 +1,13 @@
+.template-logo {
+    height: 60px;
+    pointer-events: none;
+
+}
+
+.template-logo-bg {
+    height: 64px;
+    width: 240;
+    pointer-events: none;
+    background-color: #264e41;
+
+}

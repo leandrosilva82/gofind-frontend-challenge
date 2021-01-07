@@ -1,0 +1,57 @@
+.usuario-form {
+  padding: 20px;
+  width: 100%;
+  max-width: 500px;
+}
+
+.usuario-form form {
+  text-align: left;
+}
+
+.usuario-form label {
+  display: block;
+}
+
+.usuario-form input {
+  display: block;
+  margin: 5px 0 10px;
+  padding: 5px;
+  border: 1px solid #c0c0c0;
+  font-size: 16px;
+  line-height: 20px;
+  width: 100%;
+}
+
+.usuario-form button {
+  padding: 5px 20px;
+  border: 1px solid #c0c0c0;
+  font-size: 16px;
+  line-height: 20px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.submit {
+  background: #0d718d;
+  color: #fff;
+}
+
+.back {
+  background: #fff;
+  color: #000;
+}
+
+.usuario-form .error {
+  color: red;
+  margin: -5px 0 10px;
+}
+
+.dialogTitleSuccess {
+  background-color: rgb(0, 87, 0);
+  color: white;
+}
+
+.dialogTitleError {
+  background-color: rgb(148, 1, 1);
+  color: white;
+}
